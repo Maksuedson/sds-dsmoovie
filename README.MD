@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> DM Movie </h1>
+  <h1> DsMovie </h1>
   <p align="center">
   <br>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
