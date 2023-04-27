@@ -60,5 +60,7 @@ Você pode testar e usar o DM Movie através [desse link](https://dsmovie-maksue
 
 <br>
 
+http://localhost:8080/swagger-ui/index.html
+
 ---
 
